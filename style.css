@@ -1,0 +1,57 @@
+.bg-rice {
+    background: #fff0c9;
+}
+
+.bg-st {
+    background: rgb(94, 71, 51);
+}
+
+.rgw {
+    border-width: 2px;
+    border-color: rgb(96, 56, 20);
+    border-style: solid;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.heroimg {
+    background: url(buda1.png) no-repeat fixed center;
+    background-size: cover;
+    width: 100%;
+}
+
+.btn {
+    border-width: 20px;
+    border-color: rgb(96, 56, 20);
+    border-style: solid;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    width: 350px;
+    padding: 20px 50%;
+    border-radius: 9999px;
+    margin: 60px 50%;
+}
+
+.btn:hover {
+    background: #fff;
+    color: rgb(96, 56, 20);
+}
+
+.p {
+    font-size: 35px;
+    color: rgb(96, 56, 20);
+}
+
+.header {
+    padding: 30px 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 20px 40px;
+}
